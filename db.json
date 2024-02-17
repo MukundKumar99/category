@@ -1,4 +1,4 @@
-{
+[
   "bags" : [
     {"id": 1, "name" : "The Metro Movers Black", "price": "4899", "oldPrice": "8999", "imageUrl": "https://res.cloudinary.com/dc2b69ycq/image/upload/v1708101685/CCBP%20Assignments/SIPR04018_01_1_wqznyf.png"},
     {"id": 2, "name": "The Metro Movers Black", "price": "4899", "oldPrice": "8999", "imageUrl": "https://res.cloudinary.com/dc2b69ycq/image/upload/v1708101693/CCBP%20Assignments/SIPR04031_01_1_g4axzy.png"},
@@ -18,5 +18,15 @@
     {"id": 6, "name": "New York", "price": "6000", "oldPrice": "9000", "imageUrl": "https://res.cloudinary.com/dc2b69ycq/image/upload/v1708138826/CCBP%20Assignments/new-york-1670435_640_d2uoou.png"},
     {"id": 7, "name": "London Street", "price": "7000", "oldPrice": "9999", "imageUrl": "https://res.cloudinary.com/dc2b69ycq/image/upload/v1708139271/CCBP%20Assignments/tower-bridge-441853_640_rcz7i0.jpg"},
     {"id": 8, "name": "Goa Beach", "price": "3000", "oldPrice": "6000", "imageUrl": "https://res.cloudinary.com/dc2b69ycq/image/upload/v1708138832/CCBP%20Assignments/young-woman-1745173_640_wi3bso.jpg"}
-  ]
-}
+  ],
+   "gifts" : [
+    {"id": 1, "name" : "Idol", "price": "1200", "oldPrice": "2500", "imageUrl": "https://res.cloudinary.com/dc2b69ycq/image/upload/v1708147219/CCBP%20Assignments/idol-1834688_640_ue1ahi.jpg"},
+    {"id": 2, "name": "Lamp", "price": "1000", "oldPrice": "2000", "imageUrl": "https://res.cloudinary.com/dc2b69ycq/image/upload/v1708147221/CCBP%20Assignments/kerosene-lamp-1202277_640_sboiux.jpg"},
+    {"id": 3, "name": "Doll", "price": "1100", "oldPrice": "2200", "imageUrl": "https://res.cloudinary.com/dc2b69ycq/image/upload/v1708147223/CCBP%20Assignments/doll-1915614_640_okh6fw.jpg"},
+    {"id": 4, "name": "Pen", "price": "300", "oldPrice": "600", "imageUrl": "https://res.cloudinary.com/dc2b69ycq/image/upload/v1708147224/CCBP%20Assignments/fountain-pen-1851096_640_qbxctx.jpg"},
+    {"id": 5, "name" : "Idol", "price": "1200", "oldPrice": "2500", "imageUrl": "https://res.cloudinary.com/dc2b69ycq/image/upload/v1708147219/CCBP%20Assignments/idol-1834688_640_ue1ahi.jpg"},
+    {"id": 6, "name": "Lamp", "price": "1000", "oldPrice": "2000", "imageUrl": "https://res.cloudinary.com/dc2b69ycq/image/upload/v1708147221/CCBP%20Assignments/kerosene-lamp-1202277_640_sboiux.jpg"},
+    {"id": 7, "name": "Doll", "price": "1100", "oldPrice": "2200", "imageUrl": "https://res.cloudinary.com/dc2b69ycq/image/upload/v1708147223/CCBP%20Assignments/doll-1915614_640_okh6fw.jpg"},
+    {"id": 8, "name": "Pen", "price": "300", "oldPrice": "600", "imageUrl": "https://res.cloudinary.com/dc2b69ycq/image/upload/v1708147224/CCBP%20Assignments/fountain-pen-1851096_640_qbxctx.jpg"}
+  ],
+]
