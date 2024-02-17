@@ -1,4 +1,7 @@
 {
+  "bags" : [
+    {"id": 1, "name" : "Bags", "price": "5000", "oldPrice": "3000", "imageUrl": "https://res.cloudinary.com/dc2b69ycq/image/upload/v1708101685/CCBP%20Assignments/SIPR04018_01_1_wqznyf.png"}
+  ],
   "posts": [
     {
       "id": 1,
