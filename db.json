@@ -28,5 +28,26 @@
     {"id": 6, "name": "Lamp", "price": "1000", "oldPrice": "2000", "imageUrl": "https://res.cloudinary.com/dc2b69ycq/image/upload/v1708147221/CCBP%20Assignments/kerosene-lamp-1202277_640_sboiux.jpg"},
     {"id": 7, "name": "Doll", "price": "1100", "oldPrice": "2200", "imageUrl": "https://res.cloudinary.com/dc2b69ycq/image/upload/v1708147223/CCBP%20Assignments/doll-1915614_640_okh6fw.jpg"},
     {"id": 8, "name": "Pen", "price": "300", "oldPrice": "600", "imageUrl": "https://res.cloudinary.com/dc2b69ycq/image/upload/v1708147224/CCBP%20Assignments/fountain-pen-1851096_640_qbxctx.jpg"}
+  ],
+  "accessories" : [
+    {"id": 1, "name" : "Mobile", "price": "5000", "oldPrice": "9999", "imageUrl": "https://res.cloudinary.com/dc2b69ycq/image/upload/v1708149002/CCBP%20Assignments/iphone-410311_640_irgmlx.jpg"},
+    {"id": 2, "name": "Keyboard", "price": "1000", "oldPrice": "2000", "imageUrl": "https://res.cloudinary.com/dc2b69ycq/image/upload/v1708149003/CCBP%20Assignments/keyboard-70506_640_msn3qe.jpg"},
+    {"id": 3, "name": "Tv", "price": "4000", "oldPrice": "8000", "imageUrl": "https://res.cloudinary.com/dc2b69ycq/image/upload/v1708149004/CCBP%20Assignments/tv-627876_640_bhmrnx.jpg"},
+    {"id": 4, "name": "Watch", "price": "300", "oldPrice": "600", "imageUrl": "https://res.cloudinary.com/dc2b69ycq/image/upload/v1708149007/CCBP%20Assignments/clock-3179167_640_vd5cmq.jpg"},
+    {"id": 5, "name" : "Mobile", "price": "5000", "oldPrice": "9999", "imageUrl": "https://res.cloudinary.com/dc2b69ycq/image/upload/v1708149002/CCBP%20Assignments/iphone-410311_640_irgmlx.jpg"},
+    {"id": 6, "name": "Keyboard", "price": "1000", "oldPrice": "2000", "imageUrl": "https://res.cloudinary.com/dc2b69ycq/image/upload/v1708149003/CCBP%20Assignments/keyboard-70506_640_msn3qe.jpg"},
+    {"id": 7, "name": "Tv", "price": "4000", "oldPrice": "8000", "imageUrl": "https://res.cloudinary.com/dc2b69ycq/image/upload/v1708149004/CCBP%20Assignments/tv-627876_640_bhmrnx.jpg"},
+    {"id": 8, "name": "Watch", "price": "300", "oldPrice": "600", "imageUrl": "https://res.cloudinary.com/dc2b69ycq/image/upload/v1708149007/CCBP%20Assignments/clock-3179167_640_vd5cmq.jpg"}
+  ],
+  "jewellery" : [
+    {"id": 1, "name" : "Rings", "price": "3000", "oldPrice": "6000", "imageUrl": "https://res.cloudinary.com/dc2b69ycq/image/upload/v1708149413/CCBP%20Assignments/jewel-7389356_640_jvelvd.jpg"},
+    {"id": 2, "name": "Necklace", "price": "4000", "oldPrice": "8000", "imageUrl": "https://res.cloudinary.com/dc2b69ycq/image/upload/v1708149415/CCBP%20Assignments/woman-518275_640_suk2tm.jpg"},
+    {"id": 3, "name": "Bangles", "price": "1000", "oldPrice": "2000", "imageUrl": "https://res.cloudinary.com/dc2b69ycq/image/upload/v1708149417/CCBP%20Assignments/bracelet-671791_640_s0m8rv.jpg"},
+    {"id": 4, "name": "Earrings", "price": "700", "oldPrice": "1400", "imageUrl": "https://res.cloudinary.com/dc2b69ycq/image/upload/v1708149418/CCBP%20Assignments/bindi-2416039_640_um3grw.jpg"},
+    {"id": 5, "name" : "Rings", "price": "3000", "oldPrice": "6000", "imageUrl": "https://res.cloudinary.com/dc2b69ycq/image/upload/v1708149413/CCBP%20Assignments/jewel-7389356_640_jvelvd.jpg"},
+    {"id": 6, "name": "Necklace", "price": "4000", "oldPrice": "8000", "imageUrl": "https://res.cloudinary.com/dc2b69ycq/image/upload/v1708149415/CCBP%20Assignments/woman-518275_640_suk2tm.jpg"},
+    {"id": 7, "name": "Bangles", "price": "1000", "oldPrice": "2000", "imageUrl": "https://res.cloudinary.com/dc2b69ycq/image/upload/v1708149417/CCBP%20Assignments/bracelet-671791_640_s0m8rv.jpg"},
+    {"id": 8, "name": "Earrings", "price": "700", "oldPrice": "1400", "imageUrl": "https://res.cloudinary.com/dc2b69ycq/image/upload/v1708149418/CCBP%20Assignments/bindi-2416039_640_um3grw.jpg"}
+    
   ]
 }
