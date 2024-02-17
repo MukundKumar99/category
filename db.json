@@ -1,4 +1,4 @@
-[
+{
   "bags" : [
     {"id": 1, "name" : "The Metro Movers Black", "price": "4899", "oldPrice": "8999", "imageUrl": "https://res.cloudinary.com/dc2b69ycq/image/upload/v1708101685/CCBP%20Assignments/SIPR04018_01_1_wqznyf.png"},
     {"id": 2, "name": "The Metro Movers Black", "price": "4899", "oldPrice": "8999", "imageUrl": "https://res.cloudinary.com/dc2b69ycq/image/upload/v1708101693/CCBP%20Assignments/SIPR04031_01_1_g4axzy.png"},
@@ -28,5 +28,5 @@
     {"id": 6, "name": "Lamp", "price": "1000", "oldPrice": "2000", "imageUrl": "https://res.cloudinary.com/dc2b69ycq/image/upload/v1708147221/CCBP%20Assignments/kerosene-lamp-1202277_640_sboiux.jpg"},
     {"id": 7, "name": "Doll", "price": "1100", "oldPrice": "2200", "imageUrl": "https://res.cloudinary.com/dc2b69ycq/image/upload/v1708147223/CCBP%20Assignments/doll-1915614_640_okh6fw.jpg"},
     {"id": 8, "name": "Pen", "price": "300", "oldPrice": "600", "imageUrl": "https://res.cloudinary.com/dc2b69ycq/image/upload/v1708147224/CCBP%20Assignments/fountain-pen-1851096_640_qbxctx.jpg"}
-  ],
-]
+  ]
+}
