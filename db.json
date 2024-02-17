@@ -29,4 +29,15 @@
     {"id": 7, "name": "Doll", "price": "1100", "oldPrice": "2200", "imageUrl": "https://res.cloudinary.com/dc2b69ycq/image/upload/v1708147223/CCBP%20Assignments/doll-1915614_640_okh6fw.jpg"},
     {"id": 8, "name": "Pen", "price": "300", "oldPrice": "600", "imageUrl": "https://res.cloudinary.com/dc2b69ycq/image/upload/v1708147224/CCBP%20Assignments/fountain-pen-1851096_640_qbxctx.jpg"},
   ],
+},
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
