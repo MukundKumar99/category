@@ -18,5 +18,5 @@
     {"id": 6, "name": "New York", "price": "6000", "oldPrice": "9000", "imageUrl": "https://res.cloudinary.com/dc2b69ycq/image/upload/v1708138826/CCBP%20Assignments/new-york-1670435_640_d2uoou.png"},
     {"id": 7, "name": "London Street", "price": "7000", "oldPrice": "9999", "imageUrl": "https://res.cloudinary.com/dc2b69ycq/image/upload/v1708139271/CCBP%20Assignments/tower-bridge-441853_640_rcz7i0.jpg"},
     {"id": 8, "name": "Goa Beach", "price": "3000", "oldPrice": "6000", "imageUrl": "https://res.cloudinary.com/dc2b69ycq/image/upload/v1708138832/CCBP%20Assignments/young-woman-1745173_640_wi3bso.jpg"}
-  ],
+  ]
 }
